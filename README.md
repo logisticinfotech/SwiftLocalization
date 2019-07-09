@@ -1,2 +1,2 @@
 # SwiftLocalization
-SwiftLocalization
+![alt text](Sample.gif)
