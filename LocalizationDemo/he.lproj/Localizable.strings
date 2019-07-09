@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  LocalizationDemo
+
+  Created by Krishna on 24/06/19.
+  Copyright © 2019 Krishna. All rights reserved.
+*/
+
+"Choose Language" = "בחר שפה";
+"English" = "אנגלית";
+"Hebrew" = "עברית";
+"Next" = "הבא";
+"Country List" = "רשימת מדינות";
+"India" = "הודו";
+"Australia" = "אוסטרליה";
+"Mexico" = "מקסיקו";
+"Kenya" = "קניה";
+"China" = "סין";
+"Bhutan" = "בהוטאן";
+"Canada" = "קנדה";
+"Japan" = "יפן";
+"Qatar" = "קטאר";
+"Israel" = "ישראל";
+"Country Description Here..." = "תיאור המדינה כאן ...";
